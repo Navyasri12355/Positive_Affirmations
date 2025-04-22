@@ -22,17 +22,25 @@ Welcome to the **Positive Affirmations App** – a soothing, uplifting space tha
 Make sure you have Python and Streamlit installed.
 
 ### 1. Clone the Repository
+```bash
 git clone https://github.com/yourusername/positive-affirmations-app.git
 cd positive-affirmations-app
+```
 
 ### 2. Install Requirements
 If using a virtual environment:
+```bash
 python -m venv venv
 source venv/bin/activate # or venv\Scripts\Activate on Windows
 pip install streamlit
+```
 
 ### 3. Run the App
+```bash
 streamlit run app.py
+```
+
+---
 
 ## ✨ Customization
 ### Add More Affirmations:
